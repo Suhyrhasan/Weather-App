@@ -1,5 +1,5 @@
 # Weather-App
-Tells you local weather forecast for cities. Open [https://suhyrhasan.github.io/Weather-App/](https://suhyrhasan.github.io/Weather-App/) to view it in the browser.
+Tells you local weather forecast for cities. Open [Weather App](https://suhyrhasan.github.io/Weather-App/) to view it in the browser.
 
 #
 ![Screen-Shot-2021-11-30-at-3-00-14-AM.png](https://i.postimg.cc/X7rpSbSd/Screen-Shot-2021-11-30-at-3-00-14-AM.png)
