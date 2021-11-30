@@ -92,3 +92,11 @@ main {
     font-weight: 500;
     text-shadow: 0px 4px rgba(0, 0, 0, 0.4);
 }
+
+.humidity {
+    color:#FFF;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: italic;
+    text-shadow: 0px 3px rgba(0, 0, 0, 0.4);
+}

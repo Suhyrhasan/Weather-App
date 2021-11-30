@@ -35,6 +35,9 @@ function displayResults(weather) {
 
     let hilow = document.querySelector('.hi-low');
     hilow.innerText = `${Math.round(weather.main.temp_min)}°f / ${Math.round(weather.main.temp_max)}°f`;
+
+    let humidity = document.querySelector('.humidity');
+    humidity.innerText = `Humidity ${Math.round(weather.main.humidity)}%`;
 }
 
 function dateBuilder(d) {
