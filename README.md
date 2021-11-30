@@ -13,4 +13,4 @@ Tells you local weather forecast for cities. Open [https://suhyrhasan.github.io/
 4. Please submit a detailed pull request on Github after your changes/updates are committed to a new branch.
 5. To test your changes open the `index.html` file.
 
-Make sure to follow Javascript [Guidelines](https://github.com/pillarstudio/standards/blob/master/javascript-guidelines.md)
+Make sure to follow [Javascript](https://github.com/pillarstudio/standards/blob/master/javascript-guidelines.md) and [CSS](https://github.com/pillarstudio/standards/blob/master/css-guidelines.md) Guidelines
