@@ -17,7 +17,7 @@
         <main>
             <section class="location">
                 <div class="city">Seattle, WA</div>
-                <div class="date">Monday 29 November 2021</div>
+                <div class="date"> <span id='date-time'></span></div>
             </section>
             <div class="current">
                 <div class="temp">12<span>°f</span></div>
@@ -26,10 +26,14 @@
             </div>
             <div class="humidity">
                 Humidity: <span>55<span>%</span>
+                
             </div>
         </main>
     </div>
     <script src="main.js"></script>
 </body>
-
+<script>
+    var dt = new Date();
+    document.getElementById('date-time').innerHTML=dt;
+    </script>
 </html>
